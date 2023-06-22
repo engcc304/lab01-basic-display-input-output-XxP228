@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Check bugs then replace variable to display.",
+      "setup": "g++ -o a.out ./Lab/Lab01-Basic-Display-Input-Output.cpp",
+      "run": "./a.out",
+      "input": "RMUTL\r\n50",
+      "output": "- - - - - -\r\nHello RMUTL\r\nAge = 50",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
