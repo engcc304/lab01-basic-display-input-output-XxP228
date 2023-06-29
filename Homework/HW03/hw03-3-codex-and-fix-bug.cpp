@@ -29,7 +29,7 @@ for(i=0;i<rows1;i++);
     for(j=0;j<Cols1;j++){
     printf("%d ", Matrix1[i][j]):
     }
-printf("\n");
+    printf("\n");
 }
  
 print("\nMatrix2 : \n"):
