@@ -9,7 +9,7 @@ int main()
     printf("Enter your age: ");
     scanf("%d",&Age);
     printf("- - - - - -\n");
-    printf("Hello = %s \n", Name); // TODO: #14 Say hello to user.
-    printf("Age = %d\n",Age);   // TODO: #15 display user their age number plus 1.
+    printf("Hello = %s \n", Name); 
+    printf("Age = %d\n", Age);   
     return 0;
-} // end main functionF
+}
